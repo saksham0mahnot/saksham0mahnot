@@ -70,10 +70,10 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saksham0mahnot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham0mahnot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
@@ -95,4 +95,7 @@
 
 <img src="https://raw.githubusercontent.com/saksham0mahnot/saksham0mahnot/output/snake.svg" alt="Snake animation" />
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 ###
